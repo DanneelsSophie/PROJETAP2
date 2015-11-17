@@ -4,7 +4,7 @@
 """
 :mod:`cercles` module
 
-:author: Sauvage Célestine ,Danneels Sophie , Soltysiak Samuel
+:author: Sauvage Célestine ,Dannneels Sophie , Soltysiak Samuel
 
 :date: November-December, 2015
 
